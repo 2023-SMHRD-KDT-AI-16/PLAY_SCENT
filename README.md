@@ -5,7 +5,7 @@
 
 ----
 
-## 👀서비스 소개.
+## 🎉서비스 소개.
 - 서비스 명 : 빅테이터 기반 개인 맞춤 향수 추천 판매 서비스를 기획 개발.
 - 서비스 소개 : 우리 플레이센트팀은 프리미엄 향수의 접근성과 고가의 향수 대충화를 높이는 전략으로<br>
   간단한 설문조사로 얻은 고객별 향수 취향 데이터를 통하여 맞춤 향수제품을 추천해주는 서비스 입니다.
@@ -18,7 +18,7 @@
 - **장민중**:  (https://github.com/Beyond-Boolean)
 
 ### 📅개발 기간 :  2024.02.23 ~ 2024.04.04
-### 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
+### ⛏ 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
 ![사용언어](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/a1a14a35-aa8a-4892-ba1b-fdf7f38971e2)
 <br>
 
