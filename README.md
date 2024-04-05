@@ -2,6 +2,7 @@
 ### <시연 영상>
 ![ps800](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/3fe6194d-ef8f-4afa-8e18-ed419b26707b)
 <br>
+
 ----
 
 ### <진희팀>
