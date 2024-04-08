@@ -35,7 +35,7 @@
   
 ## 📅개발 기간 :  2024.02.23 ~ 2024.04.04
 
-## ⛏ 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
+### ⛏ 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
 ![사용언어](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/a1a14a35-aa8a-4892-ba1b-fdf7f38971e2)
 
 ----
