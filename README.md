@@ -49,7 +49,7 @@
 ### <진희팀>
 ### 👨🏻‍💻 팀원  
 - **오진희 (팀장)** :  (https://github.com/krafjin56)
-- **김준혁**:  (https://github.com/junhyeok2921)
+- **김준혁 (부팀장)**:  (https://github.com/junhyeok2921)
 - **김경민**:  (https://github.com/kyeong68)
 - **장민중**:  (https://github.com/Beyond-Boolean)
 ![image](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/0ea51b95-477f-4261-a4f9-e1b482c4a671)
