@@ -23,36 +23,39 @@
 
 ## 🌟주요기술
 ![image](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/1da8684d-af63-4f53-b564-807d078525a5)
-진희팀의 대표적인 기술로는 **고객맞춤 향수추천** 서비스 입니다.
+**진희팀**의 대표적인 기술로는 **고객맞춤 향수추천** 서비스 입니다.
 신규 고객이 설문조사를 진행할때 **체크박스** 마다 향기의 대표적인 향들이 **value값으로** 들어 있습니다.<br>
 원하는 항목으로 선택을 마치면 제출시 **우리의 대조군**과 비교할수 있는 **한줄의 데이터**가 완성됩니다.<br>
 이대상을 **파이썬 기반의 flask서버**로 전송하여 flask서버에서 우리가 준비해놓은 **대조군들을 불러와**<br>
 설문조사로 얻어진 한줄의 데이터 이둘을 **코사인유사도 체크 과정**을 거쳐 **가장 유사도가 높은 best5 향수식별자**를<br>
 우리의 **자바 서블릿 서버**로 전송해 줍니다. 이 **식별자 번호**로 DB에 저장된 **향수 정보**를 불어와 프론트UI로 보여줍니다.
 
-----  
+---- 
+<br>
   
-### 📅개발 기간 :  2024.02.23 ~ 2024.04.04
-<br>
+## 📅개발 기간 :  2024.02.23 ~ 2024.04.04
 
-### ⛏ 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
+## ⛏ 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
 ![사용언어](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/a1a14a35-aa8a-4892-ba1b-fdf7f38971e2)
+
+----
+
 <br>
 
-### 📝 유스케이스
+## 📝 유스케이스
 <img width="700" alt="진희팀 유스2" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/1a8fc9c4-f9ec-43a5-955a-51c635786d13">
 
-### 🔄서비스 흐름도
+## 🔄서비스 흐름도
 <img width="749" alt="PLAYScent최종 서비스흐름도" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/33ea78be-c9a3-4309-a6fc-1fa7a565cacf">
 ----
 
-### 📝 ERD
+## 📝 ERD
 ![PSERD2](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/5de04b42-13af-498d-b229-693e536662cd)
 
-### 💻 PLAY SCENT Main페이지 입니다.
+## 💻 PLAY SCENT Main페이지 입니다.
 <img width="650" alt="mainps" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/b2821843-255c-4d1a-b1f1-df3784b653f4">
 
-### 💻 PLAY SCENT 서브페이지 입니다.
+## 💻 PLAY SCENT 서브페이지 입니다.
 <img width="120" alt="설문조사" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/24a8e243-11b3-4a68-848e-df41a0489c87">
 <img width="330" alt="향수 상세페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/4276137b-9059-44a9-bc73-2af405264de8">
 <img width="330" alt="플로럴" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/2cd896be-47cb-4630-9ca6-2d0e4e692a37">
@@ -65,7 +68,7 @@
 ----
 <br>
 
-### <진희팀 PLAY SCENT>
+## <진희팀 PLAY SCENT>
 ### 👨🏻‍💻 팀원  
 - **오진희 (팀장)** :  (https://github.com/krafjin56)
 - **김준혁 (부팀장)**:  (https://github.com/junhyeok2921)
@@ -74,14 +77,14 @@
 
 
 
-### 🔖팀원소개 및 상세역활.
+## 🔖팀원소개 및 상세역활.
 <img width="796" alt="팀원소개" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/9422d7a3-b0c4-4371-8edd-419bdd9f3cf4">
 
 ----
 
 <br>
 
-### 🛠️ 트러블 이슈.
+## 🛠️ 트러블 이슈.
 - #### 1). 파이썬 Flask 서버와 자바의 jsp 사이의 데이터 전송에 대해  언어가 서로 달라 어떻게 <br>
   전송해야할지 에대해 매몰되어 너무어렵게 생각하였다.
   <img width="785" alt="image" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/3e66b393-5669-4da8-af68-8e764d130f76">
