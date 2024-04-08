@@ -23,6 +23,26 @@
   
 ----  
   
+### 📅개발 기간 :  2024.02.23 ~ 2024.04.04
+### ⛏ 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
+![사용언어](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/a1a14a35-aa8a-4892-ba1b-fdf7f38971e2)
+<br>
+
+### 📝 유스케이스
+<img width="700" alt="진희팀 유스2" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/1a8fc9c4-f9ec-43a5-955a-51c635786d13">
+
+### 🔄서비스 흐름도
+<img width="749" alt="PLAYScent최종 서비스흐름도" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/33ea78be-c9a3-4309-a6fc-1fa7a565cacf">
+----
+
+### 📝 ERD
+![PSERD2](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/5de04b42-13af-498d-b229-693e536662cd)
+
+### 💻 PLAY SCENT Main페이지 입니다.
+<img width="650" alt="mainps" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/b2821843-255c-4d1a-b1f1-df3784b653f4">
+
+----
+<br>
 
 ### <진희팀>
 ### 👨🏻‍💻 팀원  
@@ -31,24 +51,6 @@
 - **김경민**:  (https://github.com/kyeong68)
 - **장민중**:  (https://github.com/Beyond-Boolean)
 
-### 📅개발 기간 :  2024.02.23 ~ 2024.04.04
-### ⛏ 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
-![사용언어](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/a1a14a35-aa8a-4892-ba1b-fdf7f38971e2)
-<br>
-
-### 🔄서비스 흐름도
-<img width="749" alt="PLAYScent최종 서비스흐름도" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/33ea78be-c9a3-4309-a6fc-1fa7a565cacf">
-
-----
-
-### 💻 PLAY SCENT Main페이지 입니다.
-<img width="650" alt="mainps" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/b2821843-255c-4d1a-b1f1-df3784b653f4">
-
-----
-<br>
-
-### 💻 ERD
-![PSERD2](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/5de04b42-13af-498d-b229-693e536662cd)
 <br>
 
 ### 🔖 game rules 설명 입니다.
