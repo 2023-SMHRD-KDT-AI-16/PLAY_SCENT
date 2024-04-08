@@ -36,6 +36,9 @@
 ![사용언어](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/a1a14a35-aa8a-4892-ba1b-fdf7f38971e2)
 <br>
 
+### 🔄서비스 흐름도
+<img width="749" alt="PLAYScent최종 서비스흐름도" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/33ea78be-c9a3-4309-a6fc-1fa7a565cacf">
+
 ----
 
 ### 💻 PLAY SCENT Main페이지 입니다.
