@@ -24,6 +24,8 @@
 ----  
   
 ### 📅개발 기간 :  2024.02.23 ~ 2024.04.04
+<br>
+
 ### ⛏ 개발 스택 : JAVA, Javascript,python,HTML5,CSS3, JSP,Servlet, Flask, Apache,MyBatis, Oracle, Github
 ![사용언어](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/a1a14a35-aa8a-4892-ba1b-fdf7f38971e2)
 <br>
@@ -50,10 +52,10 @@
 - **김준혁**:  (https://github.com/junhyeok2921)
 - **김경민**:  (https://github.com/kyeong68)
 - **장민중**:  (https://github.com/Beyond-Boolean)
+![image](https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/0ea51b95-477f-4261-a4f9-e1b482c4a671)
 
-<br>
 
-### 🔖 game rules 설명 입니다.
+### 🔖팀원소개 및 상세역활.
 **상, 중, 하** 난이도의 넌센스 퀴즈를 맞추는 게임 입니다.
 <br>
 각각의 난이도의 따라 차등 점수가 누적되어 누적된 점수에 따라 
