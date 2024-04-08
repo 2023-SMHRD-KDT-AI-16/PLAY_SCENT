@@ -44,13 +44,13 @@
 <img width="650" alt="mainps" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/b2821843-255c-4d1a-b1f1-df3784b653f4">
 
 ### 💻 PLAY SCENT 서브페이지 입니다.
-<img width="317" alt="설문조사" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/24a8e243-11b3-4a68-848e-df41a0489c87">
-<img width="470" alt="향수 상세페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/4276137b-9059-44a9-bc73-2af405264de8">
-<img width="470" alt="플로럴" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/2cd896be-47cb-4630-9ca6-2d0e4e692a37">
-<img width="470" alt="장바구니페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/ed833375-eb7c-4364-ae41-62f88dc7b3d9">
-<img width="470" alt="주문페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/d815383a-6130-49e1-9022-27d00b5fb337">
-<img width="470" alt="최종결제" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/3e42a1ca-7784-4530-abf2-6bce6b3fe91e">
-<img width="470" alt="향기네컷" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/e2f1225b-7215-4efe-9d83-187d42f81e06">
+<img width="80" alt="설문조사" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/24a8e243-11b3-4a68-848e-df41a0489c87">
+<img width="270" alt="향수 상세페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/4276137b-9059-44a9-bc73-2af405264de8">
+<img width="270" alt="플로럴" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/2cd896be-47cb-4630-9ca6-2d0e4e692a37">
+<img width="270" alt="장바구니페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/ed833375-eb7c-4364-ae41-62f88dc7b3d9">
+<img width="270" alt="주문페이지" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/d815383a-6130-49e1-9022-27d00b5fb337">
+<img width="270" alt="최종결제" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/3e42a1ca-7784-4530-abf2-6bce6b3fe91e">
+<img width="270" alt="향기네컷" src="https://github.com/2023-SMHRD-KDT-AI-16/PLAY_SCENT/assets/157596156/e2f1225b-7215-4efe-9d83-187d42f81e06">
 
 ----
 <br>
